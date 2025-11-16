@@ -7,7 +7,7 @@
 
 > **StarCFA-Net** is a novel, lightweight, and severity-aware framework for real-time road damage detection, designed for efficient deployment on edge devices. Accompanied by the newly introduced **MLHR-RDD** dataset, it enables fine-grained classification of both damage types *and* severity levels—addressing a critical gap in existing road inspection systems.
 
-![中文版本](./Readme.md)
+![中文版本](./Readme_CN.md)
 
 ## 📌 Overview
 
