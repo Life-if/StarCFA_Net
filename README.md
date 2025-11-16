@@ -31,7 +31,7 @@ Experiments show that StarCFA-Net achieves state-of-the-art accuracy while reduc
 
 - ✅ Joint prediction of **damage type + severity level**
 - ✅ Real-time inference speed (>30 FPS on mid-tier GPUs)
-- ✅ Lightweight architecture (<3M parameters)
+- ✅ Lightweight architecture
 - ✅ Compatible with YOLOv8 ecosystem (training, export, inference)
 - ✅ Public release of **MLHR-RDD** dataset (link below)
 
