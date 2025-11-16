@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange)](https://pytorch.org/)
 
-> **StarCFA-Net** 是一种新颖、轻量级且支持严重程度感知的实时道路损坏检测框架，专为边缘设备的高效部署而设计。配合新引入的 **MLHR-RDD** 数据集，它能够对损坏类型和严重程度进行细粒度分类，填补了现有道路检测系统中的关键空白。
+> **StarCFA-Net** 是一种新颖、轻量级且支持严重程度感知的实时道路损坏检测框架。配合新引入的 **MLHR-RDD** 数据集，它能够对损坏类型和严重程度进行细粒度分类，填补了现有道路检测系统中的关键空白。
 
 ![English](./README.md)
 
@@ -30,7 +30,7 @@
 
 - ✅ 联合预测**损坏类型 + 严重程度等级**
 - ✅ 实时推理速度（中端 GPU 上 >30 FPS）
-- ✅ 轻量级架构（<300 万参数）
+- ✅ 轻量级架构
 - ✅ 兼容 YOLOv8 生态系统（训练、导出、推理）
 - ✅ 公开发布**MLHR-RDD**数据集（链接见下文）
 
