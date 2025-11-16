@@ -47,3 +47,12 @@ MLHR-RDD 数据集将在论文接受后公开发布。
 
 ## 📄 引用
 如果您在研究中使用了 StarCFA-Net 或 MLHR-RDD 数据集，请引用我们的工作：
+```
+@article{yourname2025starcfa,
+  title={StarCFA-Net: Severity-Aware Lightweight Network for Real-Time Road Damage Detection},
+  author={Your Name and Co-authors},
+  journal={Under Review},
+  year={2025}
+}
+```
+
