@@ -50,14 +50,9 @@ The MLHR-RDD dataset will be publicly released upon paper acceptance.
 If you find StarCFA-Net or the MLHR-RDD dataset useful in your research, please cite our work:
 ```
 @article{yourname2025starcfa,
-
   title={StarCFA-Net: Severity-Aware Lightweight Network for Real-Time Road Damage Detection},
-
   author={Your Name and Co-authors},
-
   journal={Under Review},
-
   year={2025}
-
 }
 ```
